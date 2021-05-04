@@ -1,0 +1,19 @@
+{
+    "name": "typescript-finance-logger-webapp",
+    "version": "1.0.0",
+    "description": "Simple TypeScript webapp",
+    "main": "app.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/afsara-ben/TypeScript-Finance-Logger-webapp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/afsara-ben/TypeScript-Finance-Logger-webapp/issues"
+    },
+    "homepage": "https://github.com/afsara-ben/TypeScript-Finance-Logger-webapp#readme"
+}
