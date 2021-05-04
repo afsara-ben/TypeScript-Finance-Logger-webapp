@@ -1,12 +1,12 @@
 # TypeScript-Finance-Logger-webapp
 Simple TypeScript webapp
+Tutorial followed: https://www.youtube.com/watch?v=EpOPR03z4Vw&ab_channel=TheNetNinja
 
 # Running the web app
 ## Dependencies
-install `Node` and `TypeScript` beforehand.
-https://nodejs.org/en/download/
-https://www.typescriptlang.org/download
+install [Node](https://nodejs.org/en/download/) and [TypeScript](https://www.typescriptlang.org/download) beforehand.
 
 ## Steps
-1. Do `npm init` and after that `npm install` in terminal
-2. `tsc.cmd -w`
+1. In terminal do `npm init` and after that `npm install` 
+2. Run `tsc.cmd -w` (enters watch mode)
+3. Open `index.html` in browser
