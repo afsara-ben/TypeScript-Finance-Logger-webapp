@@ -1,5 +1,6 @@
 # TypeScript-Finance-Logger-webapp
-Simple TypeScript webapp
+Simple TypeScript webapp: demonstrates how to use modules in typescript
+
 Tutorial followed: https://www.youtube.com/watch?v=EpOPR03z4Vw&ab_channel=TheNetNinja
 
 # Running the web app
